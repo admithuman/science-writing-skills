@@ -11,6 +11,7 @@
 ## 📖 背景
 
 这两个技能基于 Hilary Glasman-Deal 在帝国理工学院30年学术英语教学经验的结晶。原书专为非英语母语的科研人员设计，教授如何按照国际期刊的约定俗成模式撰写研究论文。
+<img width="254" height="373" alt="1796e58302d7cb77f1d3282db975327a" src="https://github.com/user-attachments/assets/4d52ba90-29ee-45e1-bdd8-40e36af8ba09" />
 
 我们对全书269页进行了**完整知识蒸馏**，提取了：
 - 5个单元的 IMRaD 论文结构模型
